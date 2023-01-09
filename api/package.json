@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "@adonisjs/ace": "^6.9.3",
-    "@adonisjs/core": "^5.0.0-preview-rc-1.6",
+    "@adonisjs/core": "^5.9.0",
     "@adonisjs/fold": "^6.3.5",
     "pg": "^8.2.1",
     "postgres": "^1.0.2",
